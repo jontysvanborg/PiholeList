@@ -5,6 +5,10 @@ linkt.apswq.top
 au-linkti.com
 australi.com
 au-postal-redlvry-guide.info
+
+# bit.ly is a legitimate url shortener. However scammers use it.
+bit.ly
+
 chat.leg
 cutt.ly
 gov-tax-help-page.org

@@ -9,6 +9,7 @@ au-postal-redlvry-guide.info
 # bit.ly is a legitimate url shortener. However scammers use it.
 bit.ly
 
+b6b52f7e2401cc0e0549.s3.ap-southeast-2.amazonaws.com
 chat.leg
 cutt.ly
 gov-tax-help-page.org
@@ -16,6 +17,7 @@ is.gd
 
 keubc.top
 lint.keubc.top
+lliinkpey-toil.com
 
 marinafedorova.space
 nxt.to

@@ -1,4 +1,10 @@
 #Scams
+anzctc.com
+anzlivechat.com
+anz-online-au.com
+anz-login.com
+anz-personal-au.com
+
 apswq.top
 linkt.apswq.top
 
@@ -6,11 +12,15 @@ au-linkti.com
 australi.com
 au-postal-redlvry-guide.info
 
+au-service.icu
+mygov.au-service.icu
+
 # bit.ly is a legitimate url shortener. However scammers use it.
 bit.ly
 
 b6b52f7e2401cc0e0549.s3.ap-southeast-2.amazonaws.com
 chat.leg
+covid19-info.online
 cutt.ly
 gov-tax-help-page.org
 is.gd
@@ -20,11 +30,15 @@ lint.keubc.top
 lliinkpey-toil.com
 
 marinafedorova.space
+mygovatoo.help
+myportal-view.com
+mzeraclinic.ge
 nxt.to
 paypal-account-payment.net
 paypal-user-center.net
 protect-paypal.com
 relief-vax.info
+review-anzpayee.info
 s.id
 sffp.info
 
@@ -34,6 +48,7 @@ post.support-in.cc
 trckmsed.com
 anpost.trckmsed.com
 
+unos.online
 urlsa9k.xyz
 
 your-delivery-status.com

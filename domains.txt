@@ -36,6 +36,10 @@ comm-supportpanel.com
 confirmactivity-web.com
 covid19-info.online
 cutt.ly
+
+delayed.cc
+anew.delayed.cc
+
 docusign.net
 etoll.top
 link.etoll.top

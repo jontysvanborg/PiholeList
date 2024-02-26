@@ -20,6 +20,7 @@ auspost-redeliver.city
 auspost-redeliver.website
 ausseppost.life
 australi.com
+ausuposti.xyz
 au-postal-redlvry-guide.info
 
 au-service.icu

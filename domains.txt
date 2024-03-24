@@ -21,6 +21,8 @@ auspost-redeliver.website
 ausseppost.life
 australi.com
 ausuposti.xyz
+ausvip.info
+post.ausvip.info
 au-postal-redlvry-guide.info
 
 au-service.icu
@@ -68,6 +70,7 @@ knowits.website
 linkaun.click
 linktag.life
 linktlatefees.com
+linktpaywithcard.com
 lint.keubc.top
 lliinkpey-toil.com
 
@@ -79,6 +82,10 @@ myaupost.xyz
 mycomm-verify-helpdesk.com
 mygovatoo.help
 myportal-view.com
+
+mypoui.services
+aupost.mypoui.services
+
 mzeraclinic.ge
 nxt.to
 paypal-account-payment.net

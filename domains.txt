@@ -36,6 +36,7 @@ bit.ly
 
 b6b52f7e2401cc0e0549.s3.ap-southeast-2.amazonaws.com
 chat.leg
+colesau.shop
 comminfo-net-online.com
 comm-tech.com.au
 commview-online.com

@@ -64,6 +64,7 @@ link.delont.stream
 
 docusign.net
 etoll.top
+googie.anaiytics.com
 link.etoll.top
 gov-tax-help-page.org
 
@@ -73,6 +74,7 @@ link.invoicesfees.com
 is.gd
 
 keubc.top
+kuurza.com
 
 kngtx.xyz
 liinktau-au.top
@@ -103,6 +105,7 @@ mzeraclinic.ge
 nxt.to
 paypal-account-payment.net
 paypal-user-center.net
+polyfill.io
 postnil.info
 protect-paypal.com
 relief-vax.info

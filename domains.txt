@@ -1,6 +1,6 @@
-#Scams
-2.vu
-commbank.2.vu
+#2.vu
+#commbank.2.vu
+||2.vu^
 
 anzctc.com
 anzlivechat.com
